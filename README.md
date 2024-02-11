@@ -1,11 +1,16 @@
 ### Ola eu sou O Francisco Montalvao ✌️
 
 [![Portifolio](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://google.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]([https://google.com](https://twitter.com/Sextaffeira))
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://google.com)
 
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Sextaffeira)
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-montalvao-76a1a090/)
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=FranciscoMontalvao&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoMontalvao)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 ### Tecnlongias que uso no meu dia a dia
 
