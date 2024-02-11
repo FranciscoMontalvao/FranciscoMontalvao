@@ -38,4 +38,12 @@ Olá! 👋 Eu sou o Francisco Montalvao, um entusiasta da tecnologia apaixonado 
 <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img align="center" alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 
+---
+
+### Contato
+
+- 📧 E-mail: [f.montalvao@outlook.com](mailto:f.montalvao@outlook.com)
+- 📱 WhatsApp: [+5538997225058](https://wa.me/5538997225058)
+- 💬 Telegram: [+5538997225058](https://t.me/SeuUsuarioNoTelegram)
+
 </div>
